@@ -18,7 +18,7 @@
    version="1.1"
    inkscape:version="0.47 r22583"
    sodipodi:docname="tls_client_cert_on_both_hosts_and_admin_desktop.svg"
-   inkscape:export-filename="/x/centos_home/jc/workspace/git_repos/rhel6_virt_guide/en-US/images/tls_client_cert_on_both_hosts_and_admin_desktop.png"
+   inkscape:export-filename="/x/centos_home/jc/workspace/git_repos/libvirt-media/libvirt-media/png/tls_client_cert_on_both_hosts_and_admin_desktop.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="195.5"
+     inkscape:cx="302.39796"
      inkscape:cy="236.49999"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
@@ -18426,15 +18426,6 @@
      transform="translate(-3.6083984e-6,151.32196)"
      style="display:inline">
     <rect
-       width="653.25806"
-       height="305.258"
-       rx="20.000002"
-       ry="30.126055"
-       x="3.6083984e-06"
-       y="-151.32196"
-       id="rect16596"
-       style="fill:url(#radialGradient17486);fill-opacity:1;display:inline" />
-    <rect
        width="655"
        height="307"
        rx="15"
@@ -18452,6 +18443,15 @@
        y="-151.32196"
        id="rect16594"
        style="fill:url(#pattern52070);fill-opacity:1;display:inline" />
+    <rect
+       width="653.25806"
+       height="305.258"
+       rx="20.000002"
+       ry="30.126055"
+       x="3.6083984e-06"
+       y="-151.32196"
+       id="rect16596"
+       style="fill:url(#radialGradient17486);fill-opacity:1;display:inline" />
   </g>
   <g
      transform="translate(-109.42857,171.94165)"
