@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.47 r22583"
    sodipodi:docname="tls_ca_cert_transfer_to_admin_desktop.svg"
-   inkscape:export-filename="/x/centos_home/jc/workspace/git_repos/rhel6_virt_guide/en-US/images/tls_ca_cert_transfer_to_admin_desktop.png"
+   inkscape:export-filename="/x/centos_home/jc/workspace/git_repos/libvirt-media/libvirt-media/png/tls_ca_cert_transfer_to_admin_desktop.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1.5000002"
-     inkscape:cy="14.894088"
+     inkscape:cx="448.5"
+     inkscape:cy="68.894088"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -12459,11 +12459,11 @@
        xlink:href="#linearGradient3987-1-3"
        id="radialGradient17486"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.5807129,0,0,1.2919428,-196.88886,-939.55642)"
-       cx="334.43304"
-       cy="727.53674"
-       fx="334.43304"
-       fy="727.53674"
+       gradientTransform="matrix(1.6863735,0.19622642,-0.14932297,1.2832844,-127.73413,-992.02671)"
+       cx="297.10812"
+       cy="673.3548"
+       fx="297.10812"
+       fy="673.3548"
        r="265" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
@@ -15084,6 +15084,45 @@
          style="stop-color:#666666"
          offset="1" />
     </linearGradient>
+    <pattern
+       patternTransform="matrix(0.375,0,0,0.375,379,313)"
+       id="pattern25193"
+       xlink:href="#pattern29849-7"
+       inkscape:collect="always" />
+    <inkscape:perspective
+       id="perspective25183"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <pattern
+       patternTransform="matrix(0.375,0,0,0.375,379,472.32196)"
+       id="pattern29849-7"
+       xlink:href="#pattern52070-6-8"
+       inkscape:collect="always" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#white-spots-9-1-3"
+       id="pattern52070-6-8"
+       patternTransform="matrix(0.375,0,0,0.375,379,400)" />
+    <pattern
+       patternTransform="matrix(0.375,0,0,0.375,379,400)"
+       id="white-spots-9-1-3"
+       height="32"
+       width="32"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(-484.3997,-513.505)"
+         id="white-spot-7-6-5"
+         inkscape:label="#g3035">
+        <path
+           style="opacity:0.3;fill:white"
+           id="path3033-5-86-7"
+           d="M 509.39967,529.50504 C 509.39967,534.47304 505.36767,538.50504 500.39967,538.50504 C 495.43167,538.50504 491.39967,534.47304 491.39967,529.50504 C 491.39967,524.53704 495.43167,520.50504 500.39967,520.50504 C 505.36767,520.50504 509.39967,524.53704 509.39967,529.50504 z "
+           sodipodi:nodetypes="czzzz" />
+      </g>
+    </pattern>
   </defs>
   <metadata
      id="metadata9209">
@@ -15105,37 +15144,30 @@
     <rect
        width="202"
        height="148"
-       rx="20.000002"
-       ry="30.126055"
-       x="3.6083984e-06"
-       y="-246.32196"
-       id="rect16596"
-       style="fill:url(#radialGradient17486);fill-opacity:1;display:inline" />
-    <rect
-       width="202"
-       height="148"
        rx="15"
        ry="19.126053"
        x="3.6083984e-06"
        y="-246.32196"
        id="rect16592"
        style="fill:#e3dcc0;display:inline" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Pattern"
-     transform="translate(3.916016e-7,87)"
-     sodipodi:insensitive="true">
     <rect
        width="202"
        height="148"
        rx="20.000002"
        ry="30.126057"
-       x="1.4112501e-15"
-       y="-87"
+       x="4e-06"
+       y="-246.32196"
        id="rect16594"
-       style="fill:url(#pattern29849);fill-opacity:1;display:inline" />
+       style="fill:url(#pattern25193);fill-opacity:1;display:inline" />
+    <rect
+       width="202"
+       height="148"
+       rx="20.000002"
+       ry="30.126055"
+       x="3.6083984e-06"
+       y="-246.32196"
+       id="rect16596"
+       style="fill:url(#radialGradient17486);fill-opacity:1;display:inline" />
   </g>
   <g
      transform="translate(-109.42857,266.94165)"
@@ -15641,7 +15673,7 @@
            transform="matrix(4.9219257,0.2373594,0,4.8815709,494.02811,114.31052)"
            id="g39852">
           <polygon
-             points="801.55,51.99 801.55,51.99 779.03,57.6 779.03,76.36 801.55,70.74 "
+             points="801.55,51.99 779.03,57.6 779.03,76.36 801.55,70.74 801.55,51.99 "
              transform="matrix(1.9557532,0,0,2.0515916,-1574.8314,-82.222645)"
              style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1;filter:url(#filter5133-7)"
              id="polygon4417" />
@@ -15670,7 +15702,7 @@
              style="fill:url(#linearGradient40346)"
              id="path4400" />
           <polygon
-             points="801.55,51.99 801.55,51.99 779.03,57.6 779.03,76.36 801.55,70.74 "
+             points="801.55,51.99 779.03,57.6 779.03,76.36 801.55,70.74 801.55,51.99 "
              transform="matrix(1.9557532,0,0,2.0515916,-1574.8314,-82.222645)"
              style="fill:url(#radialGradient40348);fill-opacity:1"
              id="polygon4402" />

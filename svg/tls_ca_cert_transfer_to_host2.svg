@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.47 r22583"
    sodipodi:docname="tls_ca_cert_transfer_to_host2.svg"
-   inkscape:export-filename="/x/centos_home/jc/workspace/git_repos/rhel6_virt_guide/en-US/images/tls_ca_cert_transfer_to_host1.png"
+   inkscape:export-filename="/x/centos_home/jc/workspace/git_repos/libvirt-media/libvirt-media/png/tls_ca_cert_transfer_to_host2.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
@@ -28,10 +28,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1.4999998"
-     inkscape:cy="11.894089"
+     inkscape:cx="305.5"
+     inkscape:cy="42.894089"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1401"
      inkscape:window-height="1203"
@@ -48,8 +48,16 @@
        id="guide52066" />
     <sodipodi:guide
        orientation="0,1"
-       position="-143,0"
+       position="-143,-4.4921876e-07"
        id="guide52068" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-190,145"
+       id="guide18374" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="3.916016e-07,313"
+       id="guide18376" />
   </sodipodi:namedview>
   <defs
      id="defs9206">
@@ -12459,11 +12467,11 @@
        xlink:href="#linearGradient3987-1-3"
        id="radialGradient17486"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.5807129,0,0,1.2919428,-196.88886,-939.55642)"
-       cx="334.43304"
-       cy="727.53674"
-       fx="334.43304"
-       fy="727.53674"
+       gradientTransform="matrix(1.1794929,0.49497514,-0.44087856,1.0505842,904.0199,81.421009)"
+       cx="-530.49573"
+       cy="105.02655"
+       fx="-530.49573"
+       fy="105.02655"
        r="265" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
@@ -14613,6 +14621,45 @@
        fx="948"
        fy="209.00021"
        r="24" />
+    <pattern
+       patternTransform="matrix(0.375,0,0,0.375,379,313)"
+       id="pattern18351"
+       xlink:href="#pattern29849-9"
+       inkscape:collect="always" />
+    <inkscape:perspective
+       id="perspective18341"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <pattern
+       patternTransform="matrix(0.375,0,0,0.375,379,472.32196)"
+       id="pattern29849-9"
+       xlink:href="#pattern52070-6-8"
+       inkscape:collect="always" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#white-spots-9-1-5"
+       id="pattern52070-6-8"
+       patternTransform="matrix(0.375,0,0,0.375,379,400)" />
+    <pattern
+       patternTransform="matrix(0.375,0,0,0.375,379,400)"
+       id="white-spots-9-1-5"
+       height="32"
+       width="32"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(-484.3997,-513.505)"
+         id="white-spot-7-6-2"
+         inkscape:label="#g3035">
+        <path
+           style="opacity:0.3;fill:white"
+           id="path3033-5-86-3"
+           d="M 509.39967,529.50504 C 509.39967,534.47304 505.36767,538.50504 500.39967,538.50504 C 495.43167,538.50504 491.39967,534.47304 491.39967,529.50504 C 491.39967,524.53704 495.43167,520.50504 500.39967,520.50504 C 505.36767,520.50504 509.39967,524.53704 509.39967,529.50504 z "
+           sodipodi:nodetypes="czzzz" />
+      </g>
+    </pattern>
   </defs>
   <metadata
      id="metadata9209">
@@ -14630,17 +14677,7 @@
      inkscape:label="Background"
      id="layer4"
      inkscape:groupmode="layer"
-     transform="translate(-4e-6,246.32196)"
-     sodipodi:insensitive="true">
-    <rect
-       width="202"
-       height="145"
-       rx="20.000002"
-       ry="30.126055"
-       x="3.6083984e-06"
-       y="-246.32196"
-       id="rect16596"
-       style="fill:url(#radialGradient17486);fill-opacity:1;display:inline" />
+     transform="translate(-3.6083984e-6,246.32196)">
     <rect
        width="202"
        height="145"
@@ -14650,29 +14687,32 @@
        y="-246.32196"
        id="rect16592"
        style="fill:#e3dcc0;display:inline" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Pattern"
-     transform="translate(0,87)"
-     sodipodi:insensitive="true">
     <rect
        width="202"
        height="145"
        rx="20.000002"
        ry="30.126057"
-       x="1.4112501e-15"
-       y="-87"
+       x="4e-06"
+       y="-246.32196"
        id="rect16594"
-       style="fill:url(#pattern29849);fill-opacity:1;display:inline" />
+       style="fill:url(#pattern18351);fill-opacity:1;display:inline" />
+    <rect
+       width="202"
+       height="145"
+       rx="20.000002"
+       ry="30.126055"
+       x="3.6083984e-06"
+       y="-246.32196"
+       id="rect16596"
+       style="fill:url(#radialGradient17486);fill-opacity:1;display:inline" />
   </g>
   <g
      transform="translate(-109.42857,266.94165)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Hosts"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        width="0"
        height="24.171429"
@@ -15224,7 +15264,7 @@
          sodipodi:role="line">Host</tspan><tspan
          style="font-size:13.54685402px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          y="-138.84895"
-         x="238.56265"
+         x="236.80315"
          sodipodi:role="line"
          id="tspan39883-6">System 2</tspan></text>
   </g>
@@ -15232,7 +15272,7 @@
      inkscape:label="Line"
      id="layer6"
      inkscape:groupmode="layer"
-     transform="translate(-4e-6,246.32196)"
+     transform="translate(-3.6083984e-6,246.32196)"
      style="display:inline"
      sodipodi:insensitive="true">
     <path
@@ -15245,7 +15285,7 @@
      inkscape:label="Cert"
      id="layer5"
      inkscape:groupmode="layer"
-     transform="translate(-4e-6,246.32196)"
+     transform="translate(-3.6083984e-6,246.32196)"
      style="display:inline"
      sodipodi:insensitive="true">
     <g

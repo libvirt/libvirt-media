@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.47 r22583"
    sodipodi:docname="tls_small_two_hosts.svg"
-   inkscape:export-filename="/x/centos_home/jc/workspace/git_repos/rhel6_virt_guide/en-US/images/tls_small_two_hosts.png"
+   inkscape:export-filename="/x/centos_home/jc/workspace/git_repos/libvirt-media/libvirt-media/png/tls_small_two_hosts.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-34.5"
-     inkscape:cy="80.999991"
+     inkscape:cx="112.5"
+     inkscape:cy="87.999991"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -13915,15 +13915,6 @@
     <rect
        width="278"
        height="75"
-       rx="20.000002"
-       ry="30.126055"
-       x="3.6083984e-06"
-       y="-84.32196"
-       id="rect16596"
-       style="fill:url(#radialGradient17486);fill-opacity:1;display:inline" />
-    <rect
-       width="278"
-       height="75"
        rx="11"
        ry="16.126053"
        x="3.6083984e-06"
@@ -13939,6 +13930,15 @@
        y="-84.32196"
        id="rect16594"
        style="fill:url(#pattern52070);fill-opacity:1;display:inline" />
+    <rect
+       width="278"
+       height="75"
+       rx="20.000002"
+       ry="30.126055"
+       x="3.6083984e-06"
+       y="-84.32196"
+       id="rect16596"
+       style="fill:url(#radialGradient17486);fill-opacity:1;display:inline" />
   </g>
   <g
      transform="translate(-109.42857,104.94165)"
