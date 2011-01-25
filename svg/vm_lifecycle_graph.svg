@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="600.76158"
-     inkscape:cy="276.21922"
+     inkscape:zoom="1.0011682"
+     inkscape:cx="503.19937"
+     inkscape:cy="218.52332"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -41,7 +41,9 @@
      fit-margin-top="10"
      fit-margin-left="10"
      fit-margin-right="10"
-     fit-margin-bottom="10">
+     fit-margin-bottom="10"
+     inkscape:snap-grids="true"
+     inkscape:snap-page="true">
     <inkscape:grid
        snapvisiblegridlinesonly="true"
        enabled="true"
@@ -596,6 +598,28 @@
        y1="302.36218"
        x2="180"
        y2="162.36218" />
+    <pattern
+       patternTransform="matrix(0.375,0,0,0.375,417.03125,507.52316)"
+       id="pattern7478"
+       xlink:href="#white-spots-9"
+       inkscape:collect="always" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="32"
+       height="32"
+       id="white-spots-9"
+       patternTransform="matrix(0.375,0,0,0.375,379,400)">
+      <g
+         inkscape:label="#g3035"
+         id="white-spot-7"
+         transform="translate(-484.3997,-513.505)">
+        <path
+           sodipodi:nodetypes="czzzz"
+           d="M 509.39967,529.50504 C 509.39967,534.47304 505.36767,538.50504 500.39967,538.50504 C 495.43167,538.50504 491.39967,534.47304 491.39967,529.50504 C 491.39967,524.53704 495.43167,520.50504 500.39967,520.50504 C 505.36767,520.50504 509.39967,524.53704 509.39967,529.50504 z "
+           id="path3033-5"
+           style="opacity:0.3;fill:white" />
+      </g>
+    </pattern>
   </defs>
   <metadata
      id="metadata7">
@@ -605,7 +629,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -614,6 +638,24 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Vrstva 1">
+    <rect
+       style="fill:#e3dcc0;display:inline"
+       id="rect16592"
+       y="72.362183"
+       x="-57.96875"
+       ry="13.428532"
+       rx="17.072075"
+       height="490"
+       width="978.73438" />
+    <rect
+       style="fill:url(#pattern7478);fill-opacity:1;display:inline"
+       id="rect16594"
+       y="72.362183"
+       x="-57.96875"
+       ry="15.428533"
+       rx="17.072073"
+       height="490"
+       width="978.73438" />
     <g
        transform="translate(-50,50)"
        id="g4024">
