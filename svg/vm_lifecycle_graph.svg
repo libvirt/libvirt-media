@@ -27,12 +27,12 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0011682"
-     inkscape:cx="503.19937"
-     inkscape:cy="218.52332"
+     inkscape:cx="539.73789"
+     inkscape:cy="301.99658"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:snap-to-guides="false"
+     inkscape:snap-to-guides="true"
      inkscape:window-width="1848"
      inkscape:window-height="1033"
      inkscape:window-x="1597"
@@ -43,7 +43,8 @@
      fit-margin-right="10"
      fit-margin-bottom="10"
      inkscape:snap-grids="true"
-     inkscape:snap-page="true">
+     inkscape:snap-page="true"
+     showguides="false">
     <inkscape:grid
        snapvisiblegridlinesonly="true"
        enabled="true"
@@ -620,6 +621,50 @@
            style="opacity:0.3;fill:white" />
       </g>
     </pattern>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3987-1-3"
+       id="radialGradient17486"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.1919128,0,0,1.4945086,-514.12487,-876.09035)"
+       cx="432.39633"
+       cy="794.28528"
+       fx="432.39633"
+       fy="794.28528"
+       r="265" />
+    <linearGradient
+       id="linearGradient3987-1-3">
+      <stop
+         id="stop3989-8-2"
+         style="stop-color:#e3dcc0;stop-opacity:0"
+         offset="0" />
+      <stop
+         id="stop3991-5-49"
+         style="stop-color:#e3dcc0;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#white-spots-9-9"
+       id="pattern52070"
+       patternTransform="matrix(0.375,0,0,0.375,321.03126,631.68415)" />
+    <pattern
+       patternTransform="matrix(0.375,0,0,0.375,379,400)"
+       id="white-spots-9-9"
+       height="32"
+       width="32"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(-484.3997,-513.505)"
+         id="white-spot-7-2"
+         inkscape:label="#g3035">
+        <path
+           style="opacity:0.3;fill:white"
+           id="path3033-5-6"
+           d="M 509.39967,529.50504 C 509.39967,534.47304 505.36767,538.50504 500.39967,538.50504 C 495.43167,538.50504 491.39967,534.47304 491.39967,529.50504 C 491.39967,524.53704 495.43167,520.50504 500.39967,520.50504 C 505.36767,520.50504 509.39967,524.53704 509.39967,529.50504 z "
+           sodipodi:nodetypes="czzzz" />
+      </g>
+    </pattern>
   </defs>
   <metadata
      id="metadata7">
@@ -639,23 +684,32 @@
      inkscape:groupmode="layer"
      inkscape:label="Vrstva 1">
     <rect
-       style="fill:#e3dcc0;display:inline"
+       width="978.73438"
+       height="490"
+       rx="15"
+       ry="14.126053"
+       x="-57.96875"
+       y="72.362183"
        id="rect16592"
-       y="72.362183"
-       x="-57.96875"
-       ry="13.428532"
-       rx="17.072075"
-       height="490"
-       width="978.73438" />
+       style="fill:#e3dcc0;display:inline" />
     <rect
-       style="fill:url(#pattern7478);fill-opacity:1;display:inline"
-       id="rect16594"
-       y="72.362183"
-       x="-57.96875"
-       ry="15.428533"
-       rx="17.072073"
+       width="978.73438"
        height="490"
-       width="978.73438" />
+       rx="20.000002"
+       ry="30.126057"
+       x="-57.96875"
+       y="72.362183"
+       id="rect16594"
+       style="fill:url(#pattern52070);fill-opacity:1;display:inline" />
+    <rect
+       width="978.73438"
+       height="490"
+       rx="20.000002"
+       ry="30.126055"
+       x="-57.96875"
+       y="72.362183"
+       id="rect16596"
+       style="fill:url(#radialGradient17486);fill-opacity:1;display:inline" />
     <g
        transform="translate(-50,50)"
        id="g4024">
